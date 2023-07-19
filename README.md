@@ -21,3 +21,6 @@ Topics covered in this react project are:
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
 - And at the end, you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+
+*All respective credits and support to the original developer.
+Thankyou!
