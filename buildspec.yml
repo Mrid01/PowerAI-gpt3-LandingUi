@@ -6,6 +6,7 @@ phases:
       nodejs: 18
    
     commands:
+        - sudo yum update -y
         # install npm
         - npm install
        
