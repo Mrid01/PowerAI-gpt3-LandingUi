@@ -6,8 +6,7 @@ phases:
       nodejs: 18
     commands:
         - sudo yum update -y
-        # install npm
-        - npm install       
+        # install npm   
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
