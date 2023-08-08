@@ -11,6 +11,9 @@ const Footer = () => (
     <div className="gpt3__footer-btn">
       <p>Request Early Access</p>
     </div>
+    <div>
+      <p>Deployed on cloud by Mridul!</p>
+    </div>
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
@@ -39,7 +42,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 GPT-3. All rights reserved.</p>
+      <p>@2023 GPT-3. All rights reserved.</p>
     </div>
   </div>
 );
